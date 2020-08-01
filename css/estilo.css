@@ -2,3 +2,19 @@
     background: #ffc107;
     color: white;
 }
+
+.caixa {
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+footer p a {
+    color: gold;
+    margin: 5px 15px;
+    font-size: 18;
+}
+
+footer p a:hover {
+    color: gold;
+    text-decoration: none;
+}
